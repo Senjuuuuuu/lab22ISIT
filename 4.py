@@ -1,7 +1,7 @@
 import telebot
 from telebot.types import ReplyKeyboardMarkup, KeyboardButton, ReplyKeyboardRemove
 
-bot = telebot.TeleBot("8379082753:AAE3xjxbKpG8wmcKBY1gaoNwPaA-RCF4BHU")
+bot = telebot.TeleBot("8532835857:AAHFT2JXEGB0RCrCX2nhuRQErpjjCaUXcMo")
 
 # Команда /start: создаем клавиатуру
 @bot.message_handler(commands=['start'])
