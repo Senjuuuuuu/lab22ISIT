@@ -2,7 +2,7 @@ import telebot
 import requests
 
 # Токен Telegram-бота
-bot = telebot.TeleBot("8341868496:AAEo90Mi97yxSYhI5Mhu4BJZQ8eUbjm473c")
+bot = telebot.TeleBot("8532835857:AAHFT2JXEGB0RCrCX2nhuRQErpjjCaUXcMo")
 
 RANDOM_USER_API = "https://randomuser.me/api/"
 
