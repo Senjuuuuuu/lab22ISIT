@@ -1,6 +1,6 @@
 import telebot
 
-bot = telebot.TeleBot(API)
+bot = telebot.TeleBot("8532835857:AAHFT2JXEGB0RCrCX2nhuRQErpjjCaUXcMo")
 
 
 user_data = {}
