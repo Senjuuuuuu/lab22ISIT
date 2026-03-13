@@ -1,8 +1,7 @@
 import telebot
 from telebot.types import ReplyKeyboardMarkup, KeyboardButton
-from config import API
 
-bot = telebot.TeleBot(API)
+bot = telebot.TeleBot("8532835857:AAHFT2JXEGB0RCrCX2nhuRQErpjjCaUXcMo")
 
 # Команда /start для создания кнопок выбора
 @bot.message_handler(commands=['start'])
